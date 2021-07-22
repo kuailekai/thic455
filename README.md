@@ -21,18 +21,18 @@ thic455 help
 start   | begin to run
 end     | the end
 Important: please create \"thic455\" folder on disk D before using the \"start\" command
-Need another help?Read thic455 Chinese docs. https://github.com/kuailekai/  注:此处为bug,懒得修复了
+Need another help?Read thic455 Chinese docs. https://github.com/kuailekai/thic455/
 ```
 则安装成功。
 
 ## 2.使用
-```
+```bash
 thic455 start
 ```
 **作用:在`D:\thic455\`下创建`README.txt`。**
 
 ---
-```
+```bash
 thic455 end
 ```
 **作用:无**
