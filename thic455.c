@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
         printf("start   | begin to run\n");
         printf("end     | the end\n");
         printf("Important: please create \"thic455\" folder on disk D before using the \"start\" command");
-        printf("Need another help?Read thic455 Chinese docs.https://github.com/kuailekai")
+        printf("Need another help?Read thic455 Chinese docs.https://github.com/kuailekai/thic455");
         return 0;
    }
     else if(strcmp(argv[1],"start")==0)
@@ -46,7 +46,7 @@ int main(int argc, char *argv[])
     }
     else
     {
-        printf("Cannot found this command.User \"help\" to get help.")
+        printf("Cannot found this command.User \"help\" to get help.");
     }
     
     return 0;
